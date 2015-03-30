@@ -1,0 +1,859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elegant WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-18 17:23-0800\n"
+"PO-Revision-Date: Mon Mar 30 2015 12:50:55 GMT+0200 (Romance Daylight Time)\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"Language: Unknown locale\n"
+"Plural-Forms: nplurals=2; plural=n!=1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: es_ES\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zz_ZZ"
+
+#: ../404.php:17
+msgid "Unfortunately, the page you tried accessing could not be retrieved."
+msgstr "Desafortunadamente, la página a la que tratas de acceder no está disponible"
+
+#: ../archive.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: ../archive.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#: ../archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: ../author.php:18
+msgid "Articles Written By"
+msgstr "Artículos escritos por"
+
+#: ../comments.php:26
+msgid "This article has 1 comment"
+msgstr "Este artículo tiene 1 comentario "
+
+#: ../comments.php:38
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: ../comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: ../comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "Comentários más recientes &rarr;"
+
+#: ../comments.php:45
+msgid "Leave a Comment"
+msgstr "Deja un comentario"
+
+#: ../content-none.php:13
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primer post? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: ../content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada concuerda con tu búsqueda. Inténtalo de nuevo "
+"empleando otras palabras clave."
+
+#: ../content-none.php:17
+msgid "There aren't any posts currently published in this category."
+msgstr "No hay ningún artículo publicado en esta categoría."
+
+#: ../content-none.php:19
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr "No hay ningún artículo publicado con esta estructura."
+
+#: ../content-none.php:21
+msgid "There aren't any posts currently published under this tag."
+msgstr "No hay ningún artículo publicado con esta etiqueta."
+
+#: ../content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Parece ser que no podemos encontrar lo que buscas"
+
+#: ../header.php:35
+msgid "Menu"
+msgstr "Menu"
+
+#: ../page.php:35 ../templates/fullwidth.php:31
+msgid "Edit Page"
+msgstr "Editar página"
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: ../single-portfolio.php:25 ../single.php:31
+msgid "Edit Post"
+msgstr "Editar artículo"
+
+#: ../single-portfolio.php:46 ../templates/home.php:66
+msgid "Recent Work"
+msgstr "Proyectos recientes"
+
+#: ../functions/comments-callback.php:23
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions/comments-callback.php:23
+msgid "Edit"
+msgstr "Editar"
+
+#: ../functions/comments-callback.php:48
+msgid "Reply"
+msgstr "Responder"
+
+#: ../functions/comments-callback.php:52
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando aprobación"
+
+#: ../functions/copyright.php:23
+#: ../functions/theme-customizer/copyright.php:33
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../functions/dashboard-feed.php:14
+msgid "WPExplorer Blog"
+msgstr "WPExplorer Blog"
+
+#: ../functions/dashboard-feed.php:52
+msgid "No items"
+msgstr "Sin elementos"
+
+#: ../functions/dashboard-feed.php:56
+msgid "ago"
+msgstr "atrás"
+
+#: ../functions/excerpts.php:28
+msgid "continue reading"
+msgstr "continuar leyendo"
+
+#: ../functions/excerpts.php:28
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../functions/pagination.php:63
+msgid "Newer Posts"
+msgstr "Artículos más recientes"
+
+#: ../functions/pagination.php:65
+msgid "Older Posts"
+msgstr "Artículos antiguos"
+
+#: ../functions/post-author.php:30
+#, php-format
+msgid "Written by %s"
+msgstr "Escrito por %s"
+
+#: ../functions/post-meta.php:57
+msgid "Posted on"
+msgstr "Publicado en"
+
+#: ../functions/post-meta.php:63
+msgid "Under"
+msgstr "Bajo"
+
+#: ../functions/post-meta.php:69
+msgid "With"
+msgstr "Con"
+
+#: ../functions/post-meta.php:70
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: ../functions/post-meta.php:70
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../functions/post-meta.php:70
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: ../functions/theme-setup.php:18
+msgid "Main"
+msgstr "Principal"
+
+#: ../functions/welcome.php:52 ../functions/welcome.php:53
+msgid "Theme Details"
+msgstr "Detalles del tema"
+
+#: ../functions/welcome.php:61
+msgid "Recommendations | Elegant Theme"
+msgstr "Recomendaciones | Tema Elegante"
+
+#: ../functions/welcome.php:62 ../functions/welcome.php:179
+msgid "Recommendations"
+msgstr "Recomendaciones"
+
+#: ../functions/welcome.php:91 ../functions/welcome.php:92
+msgid "About"
+msgstr "About"
+
+#: ../functions/welcome.php:94 ../functions/welcome.php:95
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../functions/welcome.php:97
+msgid "Coupons & Deals"
+msgstr "Cupones y ofertas"
+
+#: ../functions/welcome.php:117
+msgid "Theme"
+msgstr "Tema"
+
+#: ../functions/welcome.php:119
+msgid "Thank you for choosing this WordPress theme for your website."
+msgstr "Gracias por elegir este tema de WordPress para tu website."
+
+#: ../functions/welcome.php:130
+msgid "GPL License"
+msgstr "GPL License"
+
+#: ../functions/welcome.php:131
+msgid ""
+"This theme is licensed under the GPL license. This means you can use it for "
+"anything you like as long as it remains GPL."
+msgstr ""
+"Este tema se encuentra bajo licencia GPL. Esto significa que lo puedes usar "
+"para lo que quieras mientras se mantenga GPL."
+
+#: ../functions/welcome.php:135
+msgid "Credits"
+msgstr "Créditos"
+
+#: ../functions/welcome.php:137
+msgid ""
+"This theme was created by <a href=\"http://www.wpexplorer.com\" "
+"target=\"_blank\">WPExplorer.com</a>."
+msgstr ""
+"Este tema fue creado por <a href=\"http://www.wpexplorer.com\" "
+"target=\"_blank\">WPExplorer.com</a>."
+
+#: ../functions/welcome.php:139
+msgid "We work hard to develop, host, release and update this theme."
+msgstr "Trabajamos duro para desarrollar, hospedar, publicar y actualizar este tema."
+
+#: ../functions/welcome.php:141
+msgid "A back-link to our website and or a donation is very much appreciated!"
+msgstr "¡Una visita a nuestro website y/o una donación sería muy apreciada!"
+
+#: ../functions/welcome.php:146
+msgid "Liability"
+msgstr "Responsabilidad"
+
+#: ../functions/welcome.php:148
+msgid ""
+"WPExplorer.com shall not be held liable for any damages, including, but not "
+"limited to, the loss of data or profit, arising from the use of, or "
+"inability to use, this theme."
+msgstr ""
+"WPExplorer.com no se hace responsable de ningún daño, incluyendo, pero no "
+"limitado a, la pérdida de datos o beneficios, derivados de la utilización o "
+"la imposibilidad de usar, este tema."
+
+#: ../functions/welcome.php:153
+msgid "Getting Started"
+msgstr "Empezando"
+
+#: ../functions/welcome.php:155
+msgid "Below you will find some useful links to get you started with this theme."
+msgstr ""
+"A continuación encontrarás algunos enlaces útiles para ayudarte a empezar "
+"con este tema."
+
+#: ../functions/welcome.php:157
+msgid "Customize Your Site"
+msgstr "Personalizando tu site"
+
+#: ../functions/welcome.php:158
+msgid "Theme Page"
+msgstr "Tema de la página"
+
+#: ../functions/welcome.php:159
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ../functions/welcome.php:181
+msgid "Below are some of the resources we love and recommend."
+msgstr "A continuación hay algunos de los recursos que nos encantan y recomendamos."
+
+#: ../functions/welcome.php:191
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../functions/welcome.php:192
+msgid ""
+"Below you will find links to plugins we (WPExplorer.com staff) personally "
+"like and recommend. None of these plugins are required for your theme to "
+"work, they simply add additional functionality."
+msgstr ""
+"A continuación encontrará enlaces a los plugins que nosotross, equipo de "
+"WPExplorer.com, recomendamos personalmente. Ninguno de estos plugins son "
+"necesarios para su tema de trabajo, sólo añaden funcionalidad adicional."
+
+#: ../functions/welcome.php:215
+msgid "Total WordPress Theme"
+msgstr "Total temas WordPress"
+
+#: ../functions/welcome.php:216
+msgid "Check out our most advanced (yet easy to use) and flexible theme to date."
+msgstr "Echa un vistazo a nuestros temas más avanzados y flexibles hasta la fecha."
+
+#: ../functions/welcome.php:221
+msgid "WordPress Hosting"
+msgstr "WordPress Hosting"
+
+#: ../functions/welcome.php:222
+msgid ""
+"If you need fast and <a href=\"http://www.wpexplorer.com/wordpress-hosting/\" "
+"target=\"_blank\">reliable hosting</a> we recommend the same host we use and "
+"love WPEngine."
+msgstr ""
+"Si necesitas alojamiento rápido y \n"
+"<a href=\"http://www.wpexplorer.com/wordpress-hosting/\" "
+"target=\"_blank\">fiable</a>\n"
+", se recomienda el mismo host que usamos WPEngine."
+
+#: ../functions/widget-areas.php:11
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions/widget-areas.php:13
+msgid "Widgets in this area are used in the sidebar region."
+msgstr "Los widgets de esta área see usarán en la zona de sidebar."
+
+#: ../functions/widget-areas.php:21
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: ../functions/widget-areas.php:23
+msgid "Widgets in this area are used in the first footer region."
+msgstr "Los widgets de esta área see usarán en la zona del primer footer."
+
+#: ../functions/widget-areas.php:31
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: ../functions/widget-areas.php:33
+msgid "Widgets in this area are used in the second footer region."
+msgstr "Los widgets de esta área see usarán en la zona del segundo footer."
+
+#: ../functions/widget-areas.php:41
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: ../functions/widget-areas.php:43
+msgid "Widgets in this area are used in the third footer region."
+msgstr "Los widgets de esta área see usarán en la zona del tercer footer."
+
+#: ../functions/meta/init.php:207
+msgid "Clear"
+msgstr "Limpiar"
+
+#: ../functions/meta/init.php:208
+msgid "Default"
+msgstr "Default"
+
+#: ../functions/meta/init.php:209
+msgid "Select Color"
+msgstr "Selecciona color"
+
+#: ../functions/meta/init.php:210
+msgid "Current Color"
+msgstr "Color actual"
+
+#: ../functions/meta/init.php:936
+msgid "Save"
+msgstr "Guardar"
+
+#: ../functions/meta/usage.php:25
+msgid "Slide Settings"
+msgstr "Configuración de diapositiva"
+
+#: ../functions/meta/usage.php:32 ../functions/meta/usage.php:58
+msgid "URL"
+msgstr "URL"
+
+#: ../functions/meta/usage.php:33
+msgid ""
+"Enter a custom URL to link this slide to. Don't forget the http// at the "
+"front!"
+msgstr ""
+"Inserta una URL personalizada para enlazarla con esta diapositiva. ¡No "
+"olvides el http// al principio!"
+
+#: ../functions/meta/usage.php:39
+msgid "Subheading"
+msgstr "Subtítulo"
+
+#: ../functions/meta/usage.php:51
+msgid "Feature Settings"
+msgstr "Ajustes de las características"
+
+#: ../functions/meta/usage.php:59
+msgid ""
+"Enter a custom URL to link this feature to. Don't forget the http// at the "
+"front! This link will be added to the featured image and title."
+msgstr ""
+"Inserta una URL personalizada para enlazarla con esta característica. ¡No "
+"olvides el http// al principio! Este enlace se añadirá a la imagen y al "
+"título de la característica."
+
+#: ../functions/meta/usage.php:65
+msgid "Icon Font Class"
+msgstr "Fuentes de iconos"
+
+#: ../functions/meta/usage.php:66
+msgid ""
+"Enter the icon font classname (without the fa- part) to display an icon "
+"instead of a featured image."
+msgstr ""
+"Inserta el nombre de la clase de iconos (sin la parte fa-) para mostrar un "
+"icono en vez de la imagen predeterminada."
+
+#: ../functions/meta/usage.php:66
+msgid "Learn More."
+msgstr "Aprende más."
+
+#: ../functions/meta/usage.php:78 ../functions/meta/usage.php:98
+msgid "Post Settings"
+msgstr "Ajustes de artículos"
+
+#: ../functions/meta/usage.php:85 ../functions/meta/usage.php:105
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: ../functions/meta/usage.php:86 ../functions/meta/usage.php:106
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr "Inserta en la URL de un vídeo la característica oEmbed."
+
+#: ../functions/meta/usage.php:86 ../functions/meta/usage.php:106
+msgid "Learn More"
+msgstr "Aprende más"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:25
+msgid "Image Gallery"
+msgstr "Galería de imágenes"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:81
+#: ../functions/meta/gallery-metabox/gmb-admin.php:145
+msgid "Remove image"
+msgstr "Borrar imagen"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:92
+msgid "Add/Edit Images"
+msgstr "Añade/Edita imagen"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:102
+msgid "Enable Lightbox for this gallery?"
+msgstr "¿Habilitar Lightbox para esta galería?"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:126
+msgid "Add Images to Gallery"
+msgstr "Añadir imágenes a la galería"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:128
+msgid "Add to gallery"
+msgstr "Añadir a la galería"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr "Por favor, vuelve a intentarlo"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr "Quitar Embed"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "No se han encontrado resultados de oEmbed para %s. Mira más información en"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr "Añadir columna"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:167
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr "Borrar"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:437
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr "Añadir o subir fichero"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:448
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr "Borrar imagen"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr "Fichero:"
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr "Descargar"
+
+#: ../functions/post-types/features.php:37
+msgid "Features"
+msgstr "Features"
+
+#: ../functions/post-types/features.php:38
+msgid "Home Features"
+msgstr "Features de inicio"
+
+#: ../functions/post-types/features.php:39
+msgid "Features Item"
+msgstr "Features del elemento"
+
+#: ../functions/post-types/features.php:40
+#: ../functions/post-types/portfolio.php:43
+#: ../functions/post-types/slides.php:41 ../functions/post-types/staff.php:43
+msgid "Add New Item"
+msgstr "Añadir nuevo elemento"
+
+#: ../functions/post-types/features.php:41
+#: ../functions/post-types/features.php:43
+msgid "Add New Features Item"
+msgstr "Añadir nuevas features de elemento"
+
+#: ../functions/post-types/features.php:42
+msgid "Edit Features Item"
+msgstr "Editar features de elemento"
+
+#: ../functions/post-types/features.php:44
+#: ../functions/post-types/portfolio.php:47
+#: ../functions/post-types/slides.php:45 ../functions/post-types/staff.php:47
+msgid "View Item"
+msgstr "Ver elemento"
+
+#: ../functions/post-types/features.php:45
+msgid "Search Features"
+msgstr "Buscar features"
+
+#: ../functions/post-types/features.php:46
+msgid "No features items found"
+msgstr "No se han encontrado features del elemento"
+
+#: ../functions/post-types/features.php:47
+msgid "No features items found in trash"
+msgstr "No se han encontrado features del elemento en la papelera"
+
+#: ../functions/post-types/features.php:74
+#: ../functions/post-types/slides.php:74
+msgid "Title"
+msgstr "Título"
+
+#: ../functions/post-types/features.php:75
+#: ../functions/post-types/portfolio.php:114
+#: ../functions/post-types/slides.php:75 ../functions/post-types/staff.php:114
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: ../functions/post-types/features.php:99
+#: ../functions/post-types/portfolio.php:138
+#: ../functions/post-types/portfolio.php:148
+#: ../functions/post-types/slides.php:99 ../functions/post-types/staff.php:138
+#: ../functions/post-types/staff.php:148
+msgid "None"
+msgstr "Nada"
+
+#: ../functions/post-types/portfolio.php:41
+#: ../functions/theme-customizer/portfolio.php:17
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../functions/post-types/portfolio.php:42
+msgid "Portfolio Item"
+msgstr "Elemento del portfolio"
+
+#: ../functions/post-types/portfolio.php:44
+#: ../functions/post-types/portfolio.php:46
+msgid "Add New Portfolio Item"
+msgstr "Añadir nuevo elemento del portfolio"
+
+#: ../functions/post-types/portfolio.php:45
+msgid "Edit Portfolio Item"
+msgstr "Editar elemento del portfolio"
+
+#: ../functions/post-types/portfolio.php:48
+msgid "Search Portfolio"
+msgstr "Buscar portfolio"
+
+#: ../functions/post-types/portfolio.php:49
+msgid "No portfolio items found"
+msgstr "No se han encontrado elementos del portfolio"
+
+#: ../functions/post-types/portfolio.php:50
+msgid "No portfolio items found in trash"
+msgstr "No se han encontrado elementos del portfolio en la papelera"
+
+#: ../functions/post-types/portfolio.php:74
+#: ../functions/post-types/portfolio.php:88
+msgid "Portfolio Categories"
+msgstr "Categorias de portfolio"
+
+#: ../functions/post-types/portfolio.php:75
+msgid "Portfolio Category"
+msgstr "Categoría de portfolio"
+
+#: ../functions/post-types/portfolio.php:76
+msgid "Search Portfolio Categories"
+msgstr "Buscar categorías de portfolio "
+
+#: ../functions/post-types/portfolio.php:77
+msgid "Popular Portfolio Categories"
+msgstr "Categorías de portfolio populares"
+
+#: ../functions/post-types/portfolio.php:78
+msgid "All Portfolio Categories"
+msgstr "Todas las categorías de portfolio"
+
+#: ../functions/post-types/portfolio.php:79
+msgid "Parent Portfolio Category"
+msgstr "Categoría de portfolio padre"
+
+#: ../functions/post-types/portfolio.php:80
+msgid "Parent Portfolio Category:"
+msgstr "Categoría de portfolio padre:"
+
+#: ../functions/post-types/portfolio.php:81
+msgid "Edit Portfolio Category"
+msgstr "Editar categoría del portfolio"
+
+#: ../functions/post-types/portfolio.php:82
+msgid "Update Portfolio Category"
+msgstr "Actualizar categoría del portfolio"
+
+#: ../functions/post-types/portfolio.php:83
+msgid "Add New Portfolio Category"
+msgstr "Añadir nueva categoría al portfolio"
+
+#: ../functions/post-types/portfolio.php:84
+msgid "New Portfolio Category Name"
+msgstr "Nuevo nombre de categoría del portfolio"
+
+#: ../functions/post-types/portfolio.php:85
+msgid "Separate portfolio categories with commas"
+msgstr "Separa las categorías de portfolio con comas"
+
+#: ../functions/post-types/portfolio.php:86
+msgid "Add or remove portfolio categories"
+msgstr "Añadir o borrar categorias de pportfolio"
+
+#: ../functions/post-types/portfolio.php:87
+msgid "Choose from the most used portfolio categories"
+msgstr "Elige entre las categorías de portfolio más usadas"
+
+#: ../functions/post-types/portfolio.php:115
+#: ../functions/post-types/staff.php:115
+msgid "Category"
+msgstr "Categorías"
+
+#: ../functions/post-types/slides.php:38
+msgid "Slides"
+msgstr "Diapositiva"
+
+#: ../functions/post-types/slides.php:39
+msgid "Home Slides"
+msgstr "Diapositivas iniciales"
+
+#: ../functions/post-types/slides.php:40
+msgid "Slides Item"
+msgstr "Elementos de diapositivas"
+
+#: ../functions/post-types/slides.php:42 ../functions/post-types/slides.php:44
+msgid "Add New Slides Item"
+msgstr "Añadir nuevos elementos de diapositiva"
+
+#: ../functions/post-types/slides.php:43
+msgid "Edit Slides Item"
+msgstr "Editar el elemento de una diapositiva"
+
+#: ../functions/post-types/slides.php:46
+msgid "Search Slides"
+msgstr "Buscar diapositivas"
+
+#: ../functions/post-types/slides.php:47
+msgid "No slides items found"
+msgstr "No se han encontrado elementos de diapositivas"
+
+#: ../functions/post-types/slides.php:48
+msgid "No slides items found in trash"
+msgstr "No se han encontrado elementos de diapositivas en la papelera"
+
+#: ../functions/post-types/staff.php:41
+msgid "Staff"
+msgstr "Personal"
+
+#: ../functions/post-types/staff.php:42
+msgid "Staff Item"
+msgstr "Elemento de personal"
+
+#: ../functions/post-types/staff.php:44 ../functions/post-types/staff.php:46
+msgid "Add New Staff Item"
+msgstr "Añadir nuevo elemento de personal"
+
+#: ../functions/post-types/staff.php:45
+msgid "Edit Staff Item"
+msgstr "Editar elemento de personal"
+
+#: ../functions/post-types/staff.php:48
+msgid "Search Staff"
+msgstr "Buscar personal"
+
+#: ../functions/post-types/staff.php:49
+msgid "No staff items found"
+msgstr "No se han encontrado elementos de personal"
+
+#: ../functions/post-types/staff.php:50
+msgid "No staff items found in trash"
+msgstr "No se han encontrado elementos de personal en la papelera"
+
+#: ../functions/post-types/staff.php:74 ../functions/post-types/staff.php:88
+msgid "Staff Categories"
+msgstr "Categorías de personal"
+
+#: ../functions/post-types/staff.php:75
+msgid "Staff Category"
+msgstr "Categoría de personal"
+
+#: ../functions/post-types/staff.php:76
+msgid "Search Staff Categories"
+msgstr "Buscar categorías de personal"
+
+#: ../functions/post-types/staff.php:77
+msgid "Popular Staff Categories"
+msgstr "Categorías de personal populares"
+
+#: ../functions/post-types/staff.php:78
+msgid "All Staff Categories"
+msgstr "Todas las categorías de personal"
+
+#: ../functions/post-types/staff.php:79
+msgid "Parent Staff Category"
+msgstr "Categoría superior de personal"
+
+#: ../functions/post-types/staff.php:80
+msgid "Parent Staff Category:"
+msgstr "Categoría superior de personal:"
+
+#: ../functions/post-types/staff.php:81
+msgid "Edit Staff Category"
+msgstr "Editar categoría de personal"
+
+#: ../functions/post-types/staff.php:82
+msgid "Update Staff Category"
+msgstr "Actualizar categoría de personal"
+
+#: ../functions/post-types/staff.php:83
+msgid "Add New Staff Category"
+msgstr "Añadir nueva categoría de personal"
+
+#: ../functions/post-types/staff.php:84
+msgid "New Staff Category Name"
+msgstr "Nuevo nombre de categoría de personal"
+
+#: ../functions/post-types/staff.php:85
+msgid "Separate staff categories with commas"
+msgstr "Separa categorías de personal con comas"
+
+#: ../functions/post-types/staff.php:86
+msgid "Add or remove staff categories"
+msgstr "Añadir o borrar categorías de personal"
+
+#: ../functions/post-types/staff.php:87
+msgid "Choose from the most used staff categories"
+msgstr "Elige entre las categorías de personal más utilizadas"
+
+#: ../functions/theme-customizer/blog.php:17
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions/theme-customizer/blog.php:28
+msgid "Read More Link"
+msgstr "Enlace leer más"
+
+#: ../functions/theme-customizer/blog.php:42
+msgid "Featured Image on Entries"
+msgstr "Foto principal de las entradas"
+
+#: ../functions/theme-customizer/blog.php:56
+msgid "Featured Image on Posts"
+msgstr "Foto principal de losa artículos"
+
+#: ../functions/theme-customizer/copyright.php:43
+msgid "Custom Copyright"
+msgstr "Copyright personalizado"
+
+#: ../functions/theme-customizer/header.php:16
+msgid "Header"
+msgstr "Cabecera"
+
+#: ../functions/theme-customizer/header.php:26
+msgid "Image Logo"
+msgstr "Logotipo"
+
+#: ../functions/theme-customizer/portfolio.php:28
+msgid "Portfolio Post Type"
+msgstr "Tipo artículo portfolio"
+
+#: ../functions/theme-customizer/portfolio.php:42
+msgid "Portfolio Comments"
+msgstr "Comentarios del portfolio"
+
+#: ../functions/theme-customizer/portfolio.php:56
+msgid "Portfolio Related"
+msgstr "Relacionados con el portfolio"
+
+#: ../functions/theme-customizer/portfolio.php:65
+msgid "All"
+msgstr "Todo"
+
+#: ../functions/theme-customizer/portfolio.php:79
+msgid "Portfolio Homepage Category"
+msgstr "Página principal de categorías de portfolio"
+
+#: ../functions/theme-customizer/portfolio.php:94
+msgid "Portfolio Homepage Posts Per Page"
+msgstr "Artículos por página en la página principal de portfolio"
+
+#: ../functions/theme-customizer/portfolio.php:108
+msgid "Archive Posts Per Page"
+msgstr "Artículos por página del archivo"
+
+#: ../templates/home.php:92
+msgid "From The Blog"
+msgstr "Desde el blog"
+
+msgid "To search type and hit enter"
+msgstr "Escriba y pulse enter"
