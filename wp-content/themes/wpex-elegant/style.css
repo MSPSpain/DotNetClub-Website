@@ -22,6 +22,17 @@ table { border-collapse: collapse; border-spacing: 0; }
 img { max-width: 100%; height: auto; }
 mark { background: none; }
 select { max-width: 100%; }
+
+textarea, input {
+	background: white !important;
+	font: 14px 'Open Sans', "Helvetica", Arial !important;
+	color: #777 !important;
+}
+
+input[type='submit'] {
+	padding: 8px !important;
+	border: 1px solid #777 !important;
+}
 /* The Grid
 ================================================== */
 .col:after,
@@ -715,6 +726,20 @@ div.dark_square #pp_full_res .pp_inline { color: #fff }
 .edd_downloads_list .edd_download { margin-bottom: 30px; }
 .edd_downloads_list .edd_download_inner { margin: 0; }
 .edd_downloads_list .edd_download_title { margin: 0 0 10px; font-size: 21px; }
+.contact-page {
+	display: table;
+}
+.contact-page > div {
+		display: table-cell;
+	}
+.mapviewer {
+	overflow: hidden;
+}
+@media all and (max-width: 800px) {
+	.contact-page > div {
+		display: table;
+	}
+}
 /* Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
  * License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
 ================================================== */
